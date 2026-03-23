@@ -20,7 +20,7 @@ def q02() -> bool:
 
 def q03() -> bool:
     """[T/F] Pada distribusi kontinu, P(X ) selalu sama dengan P(X )."""
-    return False
+    return True
 
 def q04() -> str:
     """[MC] Nilai yang bersesuaian dengan nilai pada distribusi
