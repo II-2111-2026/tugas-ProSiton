@@ -78,10 +78,10 @@ probabilitas dia benar-benar sakit?"""
 def q11() -> float:
     """[Numeric] Jika P(A) = 0,3,P(B|A) = 0,7 dan P(B|Ac) = 0,4, hitung P(B)
 menggunakan Hukum Probabilitas Total."""
-    return 0.55
+    return 0.49
 
 def q12() -> float:
     """[Numeric] Dari soal nomor 11, hitung P(A|B) menggunakan Teorema Bayes (Gunakan
 3 desimal)."""
-    return 0.545
+    return 0.429
 
